@@ -1,0 +1,9 @@
+CYB 333 - Security Log Analysis Report
+========================================
+Generated: 2026-10-11 21:49:10
+Total Failed Logins: 5
+Unique Source IPs: 2
+
+Failed Login Activity:
+192.0.2.10 | Attempts: 3 | No time-based alert
+198.51.100.15 | Attempts: 2 | No time-based alert
